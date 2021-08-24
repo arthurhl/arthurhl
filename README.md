@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurhl&show_icons=true&theme=vue-dark&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurhl&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhl&layout=compact&theme=vue-dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhl&layout=compact&theme=vue-dark&locale=pt-br&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <h3>Linguagens</h3>
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/arthurhl/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+   <a href="https://wa.me/5527996077820"> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
 </div>
 
   
