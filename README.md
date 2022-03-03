@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurhl&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhl&layout=compact&theme=vue-dark&locale=pt-br&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhl&layout=compact&theme=vue-dark&locale=pt-br&card_width=445)](https://github.com/arthurhl?tab=repositories)
 
 <div>
   <h3>Linguagens</h3>
